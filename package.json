@@ -1,0 +1,6 @@
+{
+  "name": "api-core",
+  "scripts": {
+    "start": "bun run index.ts"
+  }
+}
